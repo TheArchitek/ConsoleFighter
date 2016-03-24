@@ -1,0 +1,6 @@
+c:\users\the architek\documents\visual studio 2015\Projects\attackGame\attackGame\bin\Debug\attackGame.exe.config
+C:\Users\The Architek\Documents\Visual Studio 2015\Projects\attackGame\attackGame\bin\Debug\attackGame.exe
+C:\Users\The Architek\Documents\Visual Studio 2015\Projects\attackGame\attackGame\bin\Debug\attackGame.pdb
+C:\Users\The Architek\Documents\Visual Studio 2015\Projects\attackGame\attackGame\obj\Debug\attackGame.csprojResolveAssemblyReference.cache
+C:\Users\The Architek\Documents\Visual Studio 2015\Projects\attackGame\attackGame\obj\Debug\attackGame.exe
+C:\Users\The Architek\Documents\Visual Studio 2015\Projects\attackGame\attackGame\obj\Debug\attackGame.pdb
